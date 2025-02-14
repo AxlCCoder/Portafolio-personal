@@ -1,0 +1,36 @@
+   body{
+    background-image: url("buque.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-weight: 800;
+   }
+   
+   
+   
+   *{
+    margin: auto;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+    div{
+        text-align: center;
+    }
+    
+a:link {
+    color: green;
+}
+
+.block{
+    text-align: center;
+
+
+}
+.list{
+    text-align: left;
+    display: inline-block;
+}
+
+.A{
+    text-align: center;
+}
